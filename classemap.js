@@ -1,5 +1,6 @@
 //Fazer outra versão do projeto usando a classe map da ES2015
 
+
 const map = new Map();
 
 map.set("Hospital 1", "45 pacientes");
